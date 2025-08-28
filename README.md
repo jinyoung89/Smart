@@ -29,7 +29,7 @@
 
 ### 🌐 온라인 데모
 **GitHub Pages에서 바로 사용해보세요!**
-- 🎨 **라이브 데모**: https://YOUR_USERNAME.github.io/smart-knitting
+- 🎨 **라이브 데모**: https://jinyoung89.github.io/Smart
 
 ### 🏠 로컬 개발
 

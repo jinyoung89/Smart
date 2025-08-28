@@ -3,7 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://YOUR_USERNAME.github.io/smart-knitting",
+  "homepage": "https://jinyoung89.github.io/Smart",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

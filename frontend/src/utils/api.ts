@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { Pattern, Post, User, PatternCreate, PostCreate, YarnCalculationRequest, YarnCalculation } from '../types';
+import { Pattern, Post, User, PostCreate, YarnCalculationRequest, YarnCalculation } from '../types';
 
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
